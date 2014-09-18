@@ -8,4 +8,4 @@ Funcionalidades
 ================
   - Mostrar descrição da matéria no diálogo de compromissos para o dia. ( implementada )
   - Sincronizar com gmail, o calendário de compromissos pessoais ( não implementada )
-
+  - Ler do menu lateral esquerdo, as descrições dos código das disciplinas e armazenar no localStorage
